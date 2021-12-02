@@ -1,3 +1,5 @@
 .env
 chromedriver*
 *.csv
+posts.csv
+replies.csv
